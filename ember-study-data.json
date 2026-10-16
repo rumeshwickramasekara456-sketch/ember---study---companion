@@ -1,0 +1,20 @@
+{
+  "days": {
+    "2026-10-16": {
+      "topics": [],
+      "water": 0,
+      "studyMinutes": 0,
+      "breakMinutes": 0,
+      "care": {
+        "move": true,
+        "food": true,
+        "eyes": true,
+        "sleep": true
+      },
+      "sessions": 0
+    }
+  },
+  "settings": {
+    "reminderInterval": 45
+  }
+}
